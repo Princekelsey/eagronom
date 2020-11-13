@@ -5,7 +5,7 @@ import "./button.styles.css";
 
 const propTypes = {
   tag: PropTypes.elementType,
-  color: PropTypes.string,
+  color: PropTypes.oneOf(["primary", "secondary", "danger"]),
   size: PropTypes.string,
   disabled: PropTypes.bool,
 };
