@@ -8,7 +8,7 @@ import {
   selectSelectedCompany,
 } from "../../redux/app/appSelectors";
 import DropDownContainer from "../dropdown/DropDownContainer";
-import useToggleVisibility from "../hook/useToggleVisibility";
+import useToggleVisibility from "../../hook/useToggleVisibility";
 
 const Settings = () => {
   const { isOpen, selectedCompany } = useSelector(
