@@ -1,9 +1,14 @@
 ## Screenshots
 
+### `Without dropdown open`
+
 ![Alt text](./src/assets/finalDesignPics/01.png?raw=true "O1") <br>
-![Alt text](./src/assets/finalDesignPics/02.png?raw=true "O2") <br>
 ![Alt text](./src/assets/finalDesignPics/03.png?raw=true "O3") <br>
+
+### `With dropdown open`
+
 ![Alt text](./src/assets/finalDesignPics/04.png?raw=true "O4")
+![Alt text](./src/assets/finalDesignPics/02.png?raw=true "O2") <br>
 
 ## Available Scripts
 
