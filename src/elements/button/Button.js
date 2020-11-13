@@ -21,7 +21,8 @@ const Button = ({ className, tag, color, size, disabled, ...props }) => {
   const classes = classNames(
     "button",
     color && `button-${color}`,
-    size && `button-${size}`
+    size && `button-${size}`,
+    className
   );
 
   const Component = tag;
