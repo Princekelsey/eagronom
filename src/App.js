@@ -1,13 +1,13 @@
-import "./App.css";
+import React from "react";
 import Settings from "./components/settings/Settings";
-import Button from "./elements/button/Button";
+import "./App.css";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <Settings />
     </div>
   );
-}
+};
 
 export default App;
