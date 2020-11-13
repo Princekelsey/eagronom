@@ -1,0 +1,13 @@
+.quickactions {
+  width: 100%;
+  align-content: center;
+}
+
+.quickactions:last-child {
+  border-bottom: 1px solid #dcdce0 !important;
+}
+
+.quickactions-container {
+  padding: 10px;
+  cursor: pointer;
+}

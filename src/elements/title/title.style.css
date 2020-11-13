@@ -1,0 +1,10 @@
+.title {
+  width: 125px;
+  height: 15px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  color: #717175;
+  padding: 10px;
+  text-transform: uppercase;
+}

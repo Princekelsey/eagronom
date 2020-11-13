@@ -1,0 +1,45 @@
+.button {
+  display: inline-flex;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.1px;
+  font-weight: 600;
+  padding: 11px 31px;
+  height: 48px;
+  text-decoration: none !important;
+  color: #627183;
+  background-color: #f3f5f8;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e7ecf2;
+  border-radius: 8px;
+  cursor: pointer;
+  justify-content: center;
+  text-align: center;
+  letter-spacing: inherit;
+  white-space: nowrap;
+  transition: background 0.15s ease;
+}
+
+.button-primary {
+  color: transparent;
+  background-color: #2174ea;
+  color: #fff;
+}
+
+.button-secondary {
+  border-color: transparent;
+  background-color: #37a447;
+  color: #fff;
+}
+
+.button-sm {
+  padding: 5px 23px;
+  height: 36px;
+}
+
+.button-danger {
+  border-color: transparent;
+  color: #fff;
+  background-color: #d33649;
+}

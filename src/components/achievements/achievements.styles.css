@@ -1,0 +1,40 @@
+.achievements-container {
+  width: 100%;
+  border-radius: 0px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  align-content: center;
+  cursor: pointer;
+  border-bottom: 1px solid #dcdce0;
+}
+
+.achievements-container:hover {
+  background: #f7f7fa;
+  border-radius: 0px;
+}
+
+.content-container {
+  padding: 10px;
+}
+
+.action-group span {
+  display: block;
+}
+
+.progress {
+  height: 8px;
+  background: #dcdce0;
+  border-radius: 8px;
+  margin-top: 10px;
+  position: relative;
+}
+
+.progress-range {
+  position: absolute;
+  background: #3f475e;
+  border-radius: 8px;
+  width: 68px;
+  height: 8px;
+  left: 0px;
+  top: 0px;
+}

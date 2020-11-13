@@ -1,0 +1,16 @@
+.dropdown-container {
+  position: absolute;
+  width: 304px;
+  height: 473px;
+  left: 50%;
+  top: 51%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #dcdce0;
+  border-radius: 8px;
+  background-color: #fff;
+  text-align: start;
+  color: #333333;
+  -webkit-box-shadow: -62px 111px 300px -127px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -62px 111px 300px -127px rgba(0, 0, 0, 0.75);
+  box-shadow: -62px 111px 300px -127px rgba(0, 0, 0, 0.75);
+}

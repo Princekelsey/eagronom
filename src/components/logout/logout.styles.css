@@ -1,0 +1,14 @@
+.logout-section {
+  width: 100%;
+  align-content: center;
+  border-top: 1px solid #dcdce0 !important;
+}
+
+.logout-container {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.logout-btn {
+  color: #d33649 !important;
+}
