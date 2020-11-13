@@ -1,9 +1,9 @@
 ## Screenshots
 
-![Alt text](./src/assets/finalDesignPics/01.png?raw=true "O1") <br>
-![Alt text](./src/assets/finalDesignPics/02.png?raw=true "O1") <br>
-![Alt text](./src/assets/finalDesignPics/03.png?raw=true "O1") <br>
-![Alt text](./src/assets/finalDesignPics/04.png?raw=true "O1") <br>
+![Alt text](./src/assets/finalDesignPics/01.png?raw=true "O1")
+![Alt text](./src/assets/finalDesignPics/02.png?raw=true "O1")
+![Alt text](./src/assets/finalDesignPics/03.png?raw=true "O1")
+![Alt text](./src/assets/finalDesignPics/04.png?raw=true "O1")
 
 ## Available Scripts
 
